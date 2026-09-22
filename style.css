@@ -1,0 +1,17 @@
+@font-face {
+	font-family: "Snowday";
+	src: url("snowday-regular.otf") format("opentype");
+}
+
+body {
+	font-family: "Snowday";
+	word-spacing: 4em;
+}
+
+h3 {
+	font-weight: regular;
+	color: #A1D7FF;
+	outline: #000000 solid 1px;
+	outline-offset: 10px;
+
+}
